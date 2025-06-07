@@ -1,0 +1,7 @@
+sampleID	group
+PAP_1	    PAP
+PAP_2	    PAP
+PAP_3	    PAP
+con_1	    Control
+con_2	    Control
+con_3	    Control

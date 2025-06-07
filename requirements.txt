@@ -1,0 +1,10 @@
+# R version >= 4.2 recommended
+
+BiocManager::install("DESeq2")
+BiocManager::install("clusterProfiler")
+BiocManager::install("org.Hs.eg.db")
+BiocManager::install("AnnotationDbi")
+install.packages("tidyverse")
+
+# Optional
+BiocManager::install("biomaRt")
